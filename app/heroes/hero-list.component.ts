@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 //import { HEROES } from './mock-heroes';
 import { Hero } from './hero';
-import { HeroService } from './hero-service'
+import { HeroService } from './hero.service'
 
 @Component({
     selector: 'hero-list',
